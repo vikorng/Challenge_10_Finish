@@ -1,4 +1,4 @@
-# Challenge_10_Finish
+# Cryptocurrency Clustering
 
 #Technologies
 
@@ -15,7 +15,7 @@ sklearn - Machine learning module
 ![Example_One](https://github.com/vikorng/Challenge_10_Finish/blob/main/Resources/Elbow.png)
 ![Example](https://github.com/vikorng/Challenge_10_Finish/blob/main/Resources/MKT%20data.png)
 
-![Example_Two](https://github.com/ScientiaCapital/Cryptocurrency-Clustering/blob/main/Resources/Screen%20Shot%202021-05-21%20at%201.47.39%20PM.png)
+![Example_Two](https://github.com/vikorng/Challenge_10_Finish/blob/main/Resources/14D.png)
 
 
 
